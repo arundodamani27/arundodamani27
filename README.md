@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓 MCA Student | 💻 Software Developer  <br>🌐 Software Development Enthusiast  <br>🚀 Building projects with React, PHP, MySQL & Android<br>
+🎓 MCA Student | 💻 Software Developer  <br>🌐 Software Development Enthusiast  <br>🚀 Building projects with PHP, MySQL & Android<br>
 
 
 # 💻 Tech Stack:
