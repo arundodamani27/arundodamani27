@@ -1,21 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arun</h1>
+<h3 align="center">MCA Student | Java Full-Stack Developer | Backend Enthusiast</h3>
 
 <!--
 **arundodamani27/arundodamani27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🎓 MCA Student | 💻 Software Developer  <br>🌐 Software Development Enthusiast  <br>🚀 Building projects with PHP, MySQL & Android<br>
+
+- 🔭 Working on Java Full-Stack projects  
+- 🌱 Learning Spring Boot, MySQL & DSA  
+- 💬 Ask me about Java & backend development  
+- 📫 Reach me: arundodamani27@gmail.com  
+- ⚡ Fun fact: I love backend logic more than UI 😄  
+
 
 
 # 💻 Tech Stack:
