@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working on Java Full-Stack projects  
-- 🌱 Learning Spring Boot, MySQL & DSA  
-<!-- - 💬 Ask me about Java & backend development  -->
+- 🌱 Learning Spring Boot, MySQL & DSA  <!-- - 💬 Ask me about Java & backend development  -->
 - 📫 Reach me: arundodamani27@gmail.com  
 - ⚡ Fun fact: I love backend logic more than UI 😄  
 
