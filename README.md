@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">MCA Student | Java Full-Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">MCA Student | Python Full-Stack Developer | Backend Enthusiast</h3>
 
 <!--
 **arundodamani27/arundodamani27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working on Java Full-Stack projects  
-- 🌱 Learning Java and DSA  <!-- - 💬 Ask me about Java & backend development  -->
+- 🌱 Learning Python and DSA  <!-- - 💬 Ask me about Python & backend development  -->
 - 📫 Reach me: arundodamani27@gmail.com  
 - ⚡ Fun fact: I love backend logic more than UI 😄  
 
