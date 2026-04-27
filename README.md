@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 Working on Java Full-Stack projects  
+- 🔭 Working on Python Full-Stack projects  
 - 🌱 Learning Python and DSA  <!-- - 💬 Ask me about Python & backend development  -->
 - 📫 Reach me: arundodamani27@gmail.com  
 - ⚡ Fun fact: I love backend logic more than UI 😄  
