@@ -33,14 +33,12 @@
 - 🌍 Always exploring new technologies
 
 ---
+
 <p align="center">
-  <h3>💡 <i>"Code with purpose. Build with passion. Learn without limits."</i></h3>
+💡 <i>"Code with purpose. Build with passion. Learn without limits."</i>
 </p>
 
-
----
-
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<sub>Turning ideas into impactful software, one project at a time. 🚀</sub>
 </p>
 
