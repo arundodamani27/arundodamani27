@@ -13,7 +13,7 @@
 </p> -->
 
 # 💫 About Me:
-🎓 1st-year MCA student at St. Joseph Engineering College (SJEC), Mangaluru<br>🏆 National Finalist — HackToFuture 2026 (Top 41 out of 705+ teams, Cloud Architecture track)<br>💻 Passionate about Full Stack Development, Automation systems, and building scalable web apps<br>📚 Currently deepening my skills in Java, SQL, and modern web technologies<br>📷 Run an educational Instagram page with 10K+ followers and a Telegram channel for PGCET aspirants<br>⚡ Fun fact: I enjoy Sudoku and photography in my downtime
+🎓 MCA student at St. Joseph Engineering College (SJEC), Mangaluru<br>🏆 National Finalist — HackToFuture 2026 (Top 41 out of 705+ teams, Cloud Architecture track)<br>💻 Passionate about Full Stack Development, Automation systems, and building scalable web apps<br>📚 Currently deepening my skills in Java, SQL, and modern web technologies<br>📷 Run an educational Instagram page with 10K+ followers and a Telegram channel for PGCET aspirants<br>⚡ Fun fact: I enjoy Sudoku and photography in my downtime
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arundodamani)
