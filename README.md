@@ -27,7 +27,6 @@
 
 # ☕ Fun Facts
 
-- 🧩 Love solving Sudoku
 - 📷 Photography enthusiast
 - 💡 Enjoy building useful software
 - 🌍 Always exploring new technologies
